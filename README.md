@@ -8,6 +8,8 @@ The book was published in 2013 (second edition in 2015) by Packt Publishing and
 is available [from their
 website](http://www.packtpub.com/building-machine-learning-systems-with-python/book)
 
-The code in the repository corresponds to the second edition. Code for the first edition is available in first_edition branch.
+The code in the repository corresponds to the second edition. Code for the
+first edition is available in [first\_edition
+branch](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython/tree/first_edition).
 
-This is a forked repository, contains a simplified Jupyter notebook version from the source code for the book "Building Machine Learning Systems with Python". With the most important notes from the book. By, Amal Alnouri.
+This is a forked repository from [here](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython), contains a simplified Jupyter notebook version from the source code for the book "Building Machine Learning Systems with Python". With the most important notes from the book. By, Amal Alnouri.
